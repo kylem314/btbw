@@ -36,7 +36,7 @@
 ### Deployment Manager: 
 > controls the deployment of the project
 
-### Web Designer: 
+### Web Designer: Tanmay Marwah
 > creates the frontend ux/ui
 
 ### Technical Officer:
