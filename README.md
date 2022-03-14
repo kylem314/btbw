@@ -8,6 +8,9 @@ Tri 3 CSA Repo for m22p2-btbw
 - Database with users
 - API (is this how other people can use our database?)
 ## Wires / UML Diagram
+![image](https://files.catbox.moe/pfsiyh.png)
+![image](https://files.catbox.moe/5i2u6g.png)
+![image](https://files.catbox.moe/kqrjfn.png)
 > UML Diagram
 ## Success Ideas
 - The aim is to create a successful site that can teach students how to achieve verification within their projects and login systems.
