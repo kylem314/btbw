@@ -7,3 +7,5 @@ Tri 3 CSA Repo for m22p2-btbw
 - Roles (diff. access hierarchy)
 - Database with users
 - API? (is this how other people can use our database?)
+## Wires / UML Diagram
+## 
