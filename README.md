@@ -29,7 +29,7 @@
 ### Project Owner: Mr. M
 > commisions or sponsors our project
 
-### Scrum Master:
+### Scrum Master: Kyle M
 > overlooks team's tasks
 
 ### Deployment Manager: 
