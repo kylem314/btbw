@@ -23,6 +23,7 @@
 
 ## Success Ideas
 - The aim is to create a successful site that can teach students how to achieve verification within their projects and login systems.
+- We'll also aim to have a working login and verification system on our own site
 
 ## Team Roles
 
