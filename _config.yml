@@ -5,6 +5,8 @@ email: "kylem31415@gmail.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: redcarpet
+include:
+  - README
 redcarpet:
   extensions:
     - no_intra_emphasis
