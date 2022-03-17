@@ -39,5 +39,5 @@
 ### Web Designer: Tanmay Marwah
 > creates the frontend ux/ui
 
-### Technical Officer:
+### Technical Officer: Charlie Zhu
 > manages backend operations
