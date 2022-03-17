@@ -5,3 +5,6 @@
 
 ## UML Diagram
 ![image](https://user-images.githubusercontent.com/54718041/158848785-d75a3c9b-c61a-4e03-9a2e-5b3533bc3e7d.png)
+
+## Layout and Features Ideas
+![image](https://user-images.githubusercontent.com/72889453/158108834-e7e0cfa4-f508-4841-818b-8ccb849a2c72.png)
