@@ -12,3 +12,14 @@
 - Roles (different access hierarchy)
 - Database with users
 - API (is this how other people can use our database?)
+
+
+### Project Owner Requirements
+- Site with login system connected to a database, usable by others through an API
+- Permissions attached to accounts, allowing access to different actions and pages
+- Explanation of how to create a permission system to aid others in creating similar systems
+
+### Tangibles
+- Login system with database
+- Guide to creating authentication system
+- Multiple pages, with premissions integrated
