@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 <h1 align="center">Login System</h1>
 <p align="center">
   <b>Kevin Do, Tanmay Marwah, Kyle Myint, and Charlie Zhu</b> <br>
