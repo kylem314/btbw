@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Wires
 ![image](https://user-images.githubusercontent.com/54718041/158848692-8e8e818e-60b5-4272-b86d-55ec653b45f5.png)
 ![image](https://user-images.githubusercontent.com/54718041/158848716-126c5aa8-c77c-455c-99a5-702e5770bd0f.png)
