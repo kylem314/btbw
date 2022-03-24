@@ -1,4 +1,4 @@
-<h1 align="center">Oasis SystemS</h1>
+<h1 align="center">Oasis Systems</h1>
 <p align="center">
   <b>Kevin Do, Tanmay Marwah, Kyle Myint, and Charlie Zhu</b> <br>
   <sub>Tri 3 CSA Repo for m22p2-btbw</sub>
