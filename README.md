@@ -14,9 +14,11 @@
 - API (is this how other people can use our database?)
 
 ## Wires
-![image](https://user-images.githubusercontent.com/54718041/158848692-8e8e818e-60b5-4272-b86d-55ec653b45f5.png)
-![image](https://user-images.githubusercontent.com/54718041/158848716-126c5aa8-c77c-455c-99a5-702e5770bd0f.png)
-![image](https://user-images.githubusercontent.com/54718041/158848737-3af064a7-cf9c-48a3-85bf-5f96f395a9cb.png)
+![Landing](https://user-images.githubusercontent.com/54718041/159974329-dceb59ac-0888-406e-881f-1c6ea6a27f7d.png)
+![Login](https://user-images.githubusercontent.com/54718041/159974367-93e38440-ac1f-4108-8366-c0f98a11c57b.png)
+![Sign Up](https://user-images.githubusercontent.com/54718041/159974384-45388baf-64eb-413d-a8c8-57435018b710.png)
+![Admin Panel](https://user-images.githubusercontent.com/54718041/159974398-fc48f69a-b0f6-4990-9922-b80f62586cca.png)
+
 
 ## UML Diagram
 ![image](https://user-images.githubusercontent.com/54718041/158848785-d75a3c9b-c61a-4e03-9a2e-5b3533bc3e7d.png)
@@ -31,10 +33,10 @@
 ### Project Owner: Mr. M
 > commisions or sponsors our project
 
-### Scrum Master: Kyle M
+### Scrum Master: Kyle Myint
 > overlooks team's tasks
 
-### Deployment Manager: 
+### Deployment Manager: Kevin Do
 > controls the deployment of the project
 
 ### Web Designer: Tanmay Marwah
