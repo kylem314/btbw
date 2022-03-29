@@ -10,6 +10,7 @@ include:
   - diagrams
   - links
   - about
+  - deployment
 redcarpet:
   extensions:
     - no_intra_emphasis
